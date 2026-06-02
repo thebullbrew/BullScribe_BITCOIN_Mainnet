@@ -57,7 +57,7 @@ The official Ordinals wallet guide specifically says Bitcoin Core needs txindex=
 
 
 
-# STEP 3 | Step 3 — Start Bitcoin Core
+# STEP 3 | Start Bitcoin Core
 
 bitcoind -daemon
 
