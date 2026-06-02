@@ -33,7 +33,7 @@ bitcoind --version
 bitcoin-cli --version
 
 
-# Step 2 | Create/edit your Bitcoin config
+# Step 2 | Create your Bitcoin config
 
 Create the config folder if needed:
 
