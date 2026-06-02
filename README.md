@@ -21,7 +21,7 @@ For NFT projects, Ethereum or Solana are better for learning and building a web 
 Bitcoin Ordinals are better if you want the “this is permanently inscribed on Bitcoin mainnet” flex. 
 
 
-# STEP 1 | Install Bitcoin Core
+# Step 1 | Install Bitcoin Core
 
 Note: You are not deploying a contract. You are using your own Bitcoin node and the ord CLI to inscribe a file into a Bitcoin transaction.
 
@@ -57,7 +57,7 @@ The official Ordinals wallet guide specifically says Bitcoin Core needs txindex=
 
 
 
-# STEP 3 | Start Bitcoin Core
+# Step 3 | Start Bitcoin Core
 
 bitcoind -daemon
 
