@@ -75,3 +75,29 @@ This is the painful part: Bitcoin mainnet sync can take a long time and a lot of
 
 
 # Step 4 | Install ord
+
+With Rust:
+
+brew install rust
+cargo install ord
+
+
+Check:
+
+ord --version
+
+
+Alternative: download the latest release from the official ord GitHub. The official repo is maintained at ordinals/ord.  
+
+
+# Step 5 | Create the Ordinals wallet
+
+Once Bitcoin Core is synced:
+
+ord wallet create
+
+Then generate a receiving address:
+
+ord wallet receive
+
+This gives you a Bitcoin address controlled by the ord wallet.
