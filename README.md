@@ -1,6 +1,6 @@
 # BullScribe_BITCOIN_Mainnet
 
-// PROLOGUE:
+PROLOGUE:
   On Bitcoin's mainnet I'm going to use the most common insscription method through Ordinals (inscriptions). 
   I will use Bitcoin Core + ord, the real Bitcoin mainnet Ordinals setup.
   I can “inscribe” data — image, text, HTML, metadata, etc. onto an individual satoshi, the smallest unit of BTC. 
@@ -18,7 +18,7 @@ You need:
 WARNING: it is usually more expensive and slower than minting on Solana.
 Bitcoin block space is limited, so larger files cost more.
 For NFT projects, Ethereum or Solana are better for learning and building a web app. 
-Bitcoin Ordinals are better if you want the “this is permanently inscribed on Bitcoin mainnet” flex. //
+Bitcoin Ordinals are better if you want the “this is permanently inscribed on Bitcoin mainnet” flex. 
 
 
 # STEP 1 | Install Bitcoin Core
