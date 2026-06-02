@@ -29,6 +29,7 @@ On Mac, easiest with Homebrew:
 brew install bitcoin
 
 Check it:
+
 bitcoind --version
 bitcoin-cli --version
 
